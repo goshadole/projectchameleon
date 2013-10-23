@@ -28,13 +28,13 @@ select {
 	text-align: right;
 }
 #login, .wishlists {
-	background-color: #FFFFFF;
+	background-color: #FFF;
 	z-index: 100;
 	padding-top: 10px;
 	display: inline;
 }
 #login a, .wishlists a {
-	background-color: #FFFFFF;
+	background-color: #FFF;
 	color: silver;
 }
 .wishlists {
@@ -1260,7 +1260,7 @@ footer .doubleline {
 /*login*/
 
 .ui-widget-header {
-	background: #b8c0d1 !important;
+	background: #FFF !important;
 }
 #ui-id-1 {
 	color: white;

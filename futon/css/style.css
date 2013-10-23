@@ -269,7 +269,7 @@ a:hover {  text-decoration: none;   }
 
 /***** Login popup box login_box.tpl.php *****/
 #LoginForm { margin-bottom: 0px; }
-.login label { font-size: 0.9em; font-weight: normal;}
+.login label { font-size: 0.9em; font-weight: normal; font-family: 'Lato',Helvetica,Arial,sans-serif}
 .login a {font-size: 0.6em; }
 .login input[type="text"],.login input[type="password"],.login input[type="text"]:focus { text-transform: none; padding: 2px; margin: 0px; width: 200px;}
 #LoginForm label[for=LoginForm_rememberMe] { display: inline; }

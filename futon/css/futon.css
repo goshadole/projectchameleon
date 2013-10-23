@@ -1273,6 +1273,7 @@ footer .doubleline {
 	background: #666 !important;
 	color: white;
 	padding: 10px;
+	font-family: 'Lato',Helvetica,Arial,sans-serif
 }
 .ui-dialog .buttons input:hover {
 	color: #eff2f7;

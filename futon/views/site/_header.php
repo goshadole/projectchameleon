@@ -1,3 +1,18 @@
+
+ <?php echo CHtml::dropDownList('listname', $select, 
+              CHtml::listData(CustomPage::model()->toptabs()->findAll(),'url','title'),
+              array('empty' => '(Select a gender)'));
+              ?>
+
+
+
+
+ <?php echo CHtml::dropDownList('listname', '',
+CHtml::listData($this->MenuTree,'url','label'),
+array('empty' => '(Select a gender)'));
+?>
+
+
 <div class="container">
   <header class="row" id="header">
     <div class="span12 clearfix">

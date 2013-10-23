@@ -1260,7 +1260,8 @@ footer .doubleline {
 /*login*/
 
 .ui-widget-header {
-	background: #333 !important;
+	background: #666 !important;
+	color: #FFF;
 }
 #ui-id-1 {
 	color: white;

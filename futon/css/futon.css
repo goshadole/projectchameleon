@@ -1269,8 +1269,9 @@ footer .doubleline {
 	background: rgba(256, 256, 256, 1) !important;
 }
 .ui-dialog .buttons input {
-	background: #6f727b !important;
+	background: #666 !important;
 	color: white;
+	padding: 10px;
 }
 .ui-dialog .buttons input:hover {
 	color: #eff2f7;

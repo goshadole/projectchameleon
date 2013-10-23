@@ -72,7 +72,7 @@
           <section class="row-fluid doubleline">
              <div class="container">
               <div class="span7">
-  
+                  <!-- make these options in the backend -->
                   <div class="payments amex"></div>
                   <div class="payments mastercard"></div>
                   <div class="payments visa"></div>
@@ -115,7 +115,7 @@
             <div class="container">
             <div class="pull-left">&copy; <?= Yii::t('global', 'Copyright') ?> <?= date("Y"); ?> <?= _xls_get_conf('STORE_NAME') ?>. <?= Yii::t('global', 'All Rights Reserved'); ?>.</div>
               <div class="pull-right footer-social">
-
+          <!-- if href=null, hide social -->
           <ul class="unstyled clearfix">
           <li><a href="http://twitter.com" title="Twitter" class="icon-social twitter ir">Twitter</a></li>
           <li><a href="http://www.facebook.com" title="Facebook" class="icon-social facebook ir">Facebook</a></li>

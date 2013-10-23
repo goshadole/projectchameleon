@@ -28,16 +28,14 @@ select {
 	text-align: right;
 }
 #login, .wishlists {
-	background-color: transparent;
+	background-color: #FFFFFF;
 	z-index: 100;
-	text-transform: capitalize;
 	padding-top: 10px;
 	display: inline;
 }
 #login a, .wishlists a {
-	background-color: transparent;
+	background-color: #FFFFFF;
 	color: silver;
-	text-transform: capitalize;
 }
 .wishlists {
 	margin-left: 15px;
